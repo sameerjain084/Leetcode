@@ -15,6 +15,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -28,4 +29,16 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
