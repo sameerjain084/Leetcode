@@ -16,6 +16,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sameerjain084/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/sameerjain084/Leetcode/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -34,6 +35,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sameerjain084/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/sameerjain084/Leetcode/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -47,4 +49,5 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sameerjain084/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/sameerjain084/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
