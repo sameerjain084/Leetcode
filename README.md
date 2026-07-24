@@ -19,6 +19,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0018-4sum](https://github.com/sameerjain084/Leetcode/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerjain084/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/sameerjain084/Leetcode/tree/master/0704-binary-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/sameerjain084/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
