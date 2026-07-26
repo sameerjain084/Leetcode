@@ -18,6 +18,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0015-3sum](https://github.com/sameerjain084/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sameerjain084/Leetcode/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/sameerjain084/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sameerjain084/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sameerjain084/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sameerjain084/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -67,6 +68,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sameerjain084/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sameerjain084/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sameerjain084/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sameerjain084/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
