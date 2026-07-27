@@ -17,6 +17,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | ------- |
 | [0015-3sum](https://github.com/sameerjain084/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sameerjain084/Leetcode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/sameerjain084/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sameerjain084/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sameerjain084/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sameerjain084/Leetcode/tree/master/0078-subsets) |
@@ -28,6 +29,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sameerjain084/Leetcode/tree/master/0037-sudoku-solver) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerjain084/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -37,6 +39,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sameerjain084/Leetcode/tree/master/0037-sudoku-solver) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -67,6 +70,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sameerjain084/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sameerjain084/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sameerjain084/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sameerjain084/Leetcode/tree/master/0078-subsets) |
