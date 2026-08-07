@@ -26,6 +26,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerjain084/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sameerjain084/Leetcode/tree/master/0704-binary-search) |
+| [2596-check-knight-tour-configuration](https://github.com/sameerjain084/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sameerjain084/Leetcode/tree/master/0037-sudoku-solver) |
+| [2596-check-knight-tour-configuration](https://github.com/sameerjain084/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -86,4 +88,16 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/sameerjain084/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/sameerjain084/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/sameerjain084/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/sameerjain084/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
