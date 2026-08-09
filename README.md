@@ -100,4 +100,12 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/sameerjain084/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sameerjain084/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sameerjain084/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
