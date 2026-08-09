@@ -50,6 +50,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0015-3sum](https://github.com/sameerjain084/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sameerjain084/Leetcode/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/sameerjain084/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sameerjain084/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sameerjain084/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
