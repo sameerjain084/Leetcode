@@ -140,8 +140,21 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameerjain084/Leetcode/tree/master/0020-valid-parentheses) |
+| [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameerjain084/Leetcode/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
