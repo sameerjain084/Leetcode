@@ -25,6 +25,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sameerjain084/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/sameerjain084/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerjain084/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sameerjain084/Leetcode/tree/master/0704-binary-search) |
 | [2596-check-knight-tour-configuration](https://github.com/sameerjain084/Leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -143,6 +144,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0020-valid-parentheses](https://github.com/sameerjain084/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/sameerjain084/Leetcode/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/sameerjain084/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -157,6 +159,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/sameerjain084/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
