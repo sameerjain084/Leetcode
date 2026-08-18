@@ -22,6 +22,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0046-permutations](https://github.com/sameerjain084/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sameerjain084/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sameerjain084/Leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sameerjain084/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerjain084/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -140,6 +141,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameerjain084/Leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/sameerjain084/Leetcode/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
@@ -154,9 +156,14 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
