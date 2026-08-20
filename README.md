@@ -43,6 +43,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/sameerjain084/Leetcode/tree/master/0441-arranging-coins) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -63,6 +64,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/sameerjain084/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/sameerjain084/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
