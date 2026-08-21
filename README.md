@@ -38,6 +38,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0141-linked-list-cycle](https://github.com/sameerjain084/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sameerjain084/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sameerjain084/Leetcode/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/sameerjain084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerjain084/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -96,6 +97,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameerjain084/Leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sameerjain084/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0387-first-unique-character-in-a-string](https://github.com/sameerjain084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,4 +186,9 @@ Goal: Consistent DSA practice for placements and interviews.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sameerjain084/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sameerjain084/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/sameerjain084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sameerjain084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
