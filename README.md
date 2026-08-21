@@ -150,6 +150,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/sameerjain084/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sameerjain084/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sameerjain084/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/sameerjain084/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
@@ -162,6 +163,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0146-lru-cache](https://github.com/sameerjain084/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sameerjain084/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sameerjain084/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sameerjain084/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/sameerjain084/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -181,4 +183,5 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sameerjain084/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sameerjain084/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
