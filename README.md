@@ -46,6 +46,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sameerjain084/Leetcode/tree/master/0002-add-two-numbers) |
 | [0441-arranging-coins](https://github.com/sameerjain084/Leetcode/tree/master/0441-arranging-coins) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -120,6 +121,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sameerjain084/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sameerjain084/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sameerjain084/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sameerjain084/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -133,6 +135,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sameerjain084/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sameerjain084/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sameerjain084/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sameerjain084/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
