@@ -17,9 +17,7 @@ public:
             }
         }
 
-         if(totGas < totCost){
-            return -1;
-        }
-        return start; 
-    }
+        return totGas < totCost ? -1:start;
+
+    }// tc is o(n)
 };
