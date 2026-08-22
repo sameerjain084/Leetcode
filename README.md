@@ -24,6 +24,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0078-subsets](https://github.com/sameerjain084/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sameerjain084/Leetcode/tree/master/0090-subsets-ii) |
+| [0134-gas-station](https://github.com/sameerjain084/Leetcode/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/sameerjain084/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/sameerjain084/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -206,4 +207,8 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sameerjain084/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/sameerjain084/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
