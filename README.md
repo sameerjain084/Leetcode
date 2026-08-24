@@ -110,6 +110,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sameerjain084/Leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sameerjain084/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sameerjain084/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -161,6 +162,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0020-valid-parentheses](https://github.com/sameerjain084/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/sameerjain084/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sameerjain084/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sameerjain084/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -225,6 +227,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sameerjain084/Leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sameerjain084/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -232,6 +235,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sameerjain084/Leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sameerjain084/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
