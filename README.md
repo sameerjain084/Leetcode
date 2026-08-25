@@ -35,6 +35,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sameerjain084/Leetcode/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/sameerjain084/Leetcode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/sameerjain084/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sameerjain084/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -47,6 +48,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sameerjain084/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/sameerjain084/Leetcode/tree/master/0012-integer-to-roman) |
 | [0441-arranging-coins](https://github.com/sameerjain084/Leetcode/tree/master/0441-arranging-coins) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -98,6 +100,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sameerjain084/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/sameerjain084/Leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sameerjain084/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerjain084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
