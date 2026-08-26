@@ -40,5 +40,48 @@ public:
         int preIdx = 0;
         return helper(preorder, inorder, preIdx , 0, inorder.size()-1);
         
-    }
+    }// tc is o(n^2) in future use map to solve this problem in o(n) tc instead of search we can store the value in map
 };
+
+// // class Solution {
+// public:
+//     unordered_map<int, int> mp;
+
+//     TreeNode* helper(vector<int>& preorder, vector<int>& inorder,
+//                      int& preIdx, int left, int right) {
+
+//         if (left > right) {
+//             return NULL;
+//         }
+
+//         // Create root
+//         TreeNode* root = new TreeNode(preorder[preIdx]);
+//         preIdx++;
+
+//         // Get root index in inorder in O(1)
+//         int inIdx = mp[root->val];
+
+//         // Build left subtree
+//         root->left = helper(preorder, inorder, preIdx,
+//                             left, inIdx - 1);
+
+//         // Build right subtree
+//         root->right = helper(preorder, inorder, preIdx,
+//                              inIdx + 1, right);
+
+//         return root;
+//     }
+
+//     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+
+//         // Store inorder element and its index
+//         for (int i = 0; i < inorder.size(); i++) {
+//             mp[inorder[i]] = i;
+//         }
+
+//         int preIdx = 0;
+
+//         return helper(preorder, inorder, preIdx,
+//                       0, inorder.size() - 1);
+//     }
+// };// tc with o(n);
