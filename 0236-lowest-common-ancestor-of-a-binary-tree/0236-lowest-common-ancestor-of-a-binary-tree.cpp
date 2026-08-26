@@ -27,5 +27,5 @@ public:
         } else{
             return rightLCA;
         }
-    }
+    }// Tc is o(n); and sc is o(n)
 };
