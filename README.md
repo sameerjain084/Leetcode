@@ -101,6 +101,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0078-subsets](https://github.com/sameerjain084/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sameerjain084/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sameerjain084/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/sameerjain084/Leetcode/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0013-roman-to-integer](https://github.com/sameerjain084/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sameerjain084/Leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sameerjain084/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/sameerjain084/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerjain084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -122,6 +124,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0145-binary-tree-postorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sameerjain084/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sameerjain084/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sameerjain084/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sameerjain084/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -247,6 +250,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0145-binary-tree-postorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sameerjain084/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sameerjain084/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sameerjain084/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerjain084/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -260,6 +264,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0145-binary-tree-postorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sameerjain084/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sameerjain084/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sameerjain084/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerjain084/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
