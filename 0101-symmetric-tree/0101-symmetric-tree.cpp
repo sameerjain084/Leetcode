@@ -26,4 +26,4 @@ public:
         if (!root) return true;
         return isMirror(root->left, root->right);
     }
-};
+};// tc is o(n)
