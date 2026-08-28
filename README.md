@@ -131,6 +131,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0572-subtree-of-another-tree](https://github.com/sameerjain084/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerjain084/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/sameerjain084/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -140,6 +141,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0199-binary-tree-right-side-view](https://github.com/sameerjain084/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerjain084/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/sameerjain084/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -260,6 +262,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0572-subtree-of-another-tree](https://github.com/sameerjain084/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerjain084/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -276,6 +279,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0572-subtree-of-another-tree](https://github.com/sameerjain084/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerjain084/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
