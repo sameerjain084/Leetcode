@@ -25,6 +25,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerjain084/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sameerjain084/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerjain084/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/sameerjain084/Leetcode/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/sameerjain084/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -256,6 +257,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0100-same-tree](https://github.com/sameerjain084/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sameerjain084/Leetcode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerjain084/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sameerjain084/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -274,6 +276,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0100-same-tree](https://github.com/sameerjain084/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sameerjain084/Leetcode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerjain084/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sameerjain084/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -300,6 +303,7 @@ Goal: Consistent DSA practice for placements and interviews.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerjain084/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerjain084/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Lifting
 |  |
@@ -313,4 +317,5 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerjain084/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
