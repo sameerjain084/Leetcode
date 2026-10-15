@@ -27,6 +27,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerjain084/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/sameerjain084/Leetcode/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/sameerjain084/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/sameerjain084/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sameerjain084/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/sameerjain084/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -61,6 +62,7 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sameerjain084/Leetcode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/sameerjain084/Leetcode/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/sameerjain084/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/sameerjain084/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -130,6 +132,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0144-binary-tree-preorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sameerjain084/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sameerjain084/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sameerjain084/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sameerjain084/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sameerjain084/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -148,6 +151,7 @@ Goal: Consistent DSA practice for placements and interviews.
 | [0101-symmetric-tree](https://github.com/sameerjain084/Leetcode/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sameerjain084/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sameerjain084/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sameerjain084/Leetcode/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerjain084/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sameerjain084/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -356,4 +360,8 @@ Goal: Consistent DSA practice for placements and interviews.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sameerjain084/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sameerjain084/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
